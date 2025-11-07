@@ -1,0 +1,5 @@
+{
+  "name": "Resume Uploader",
+  "description": "A simple and elegant web application for uploading resumes, featuring a homepage for uploads and a contact page with business information.",
+  "requestFramePermissions": []
+}
